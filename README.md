@@ -3,7 +3,7 @@
 The app seat of Redshirt Assist at `https://redshirt-assist.561.group`, the
 561 Group's Assist application for Target employees, beneath
 public-worker-services-section. Founded 2026-09-11 in
-the Founder's own words, the first prompt of the session that platformized
+the first prompt of the session that platformized
 the Assist family: "We want to prepare for a new Assist application for our
 web platform, for Target employees, at https://redshirt-assist.561.group."
 
