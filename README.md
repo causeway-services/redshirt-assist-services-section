@@ -18,7 +18,7 @@ deploy shape before it is built.
 Redshirt Assist is one call of `createAssistWorker` from
 [personal-intelligence-systems-services-section](../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/personal-computer-systems-services-section/services/personal-intelligence-systems-services-section/README.md)
 over the Assist application record at
-`data/records/assist-application-service-record.json`, once its domain
+`data/records/assist-application-service-records/assist-application-service-record.json`, once its domain
 section (the package that will supply its login adapter and tool registry)
 exists. This seat carries no application logic of its own: everything
 Redshirt Assist does is the engine, parameterized by its record, the same
