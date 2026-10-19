@@ -7,5 +7,9 @@
     "redshirt-assist",
     "public-worker",
     "causeway-services"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/redshirt-assist-services-section.git"
+  }
 }
